@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 
-FIGURES_ONLY = True
+FIGURES_ONLY = False
 WORKERS = 16
 SEED = 2026
 BOOTSTRAPS = 200
