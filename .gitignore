@@ -1,0 +1,6 @@
+data/*.h5
+result/
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
